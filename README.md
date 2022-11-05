@@ -1,6 +1,7 @@
 ## Individual Reflective Journal
 
-### Project Planning and Proposal Stage** <br />
+### Project Planning and Proposal Stage 
+<br />
 
 In this stage of the project I took on the role of Scrum master.
 I would organise the meetings set meeting agendas and record the meeting minutes.
