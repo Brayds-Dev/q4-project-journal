@@ -27,8 +27,8 @@ Coming up with the general theme and color of the website is but one of the desi
 
 Below are some screen shots of the websites mock-ups.
 <br/>
-![Mockup-screenshot-1](/assets/images/Mockup_screenshot_1.png)
-![Mockup-screenshot-2](/assets/images/Mockup_screenshot_2.png)
+![Mockup-screenshot-1](docs/assets/images/Mockup_screenshot_1.png)
+![Mockup-screenshot-2](docs/assets/images/Mockup_screenshot_2.png)
 
 **Reflection on the Teamwork**
 <br/>
